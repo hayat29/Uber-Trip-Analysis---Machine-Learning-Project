@@ -1,0 +1,5 @@
+,0
+XGBoost MAPE,7.63%
+Random Forest MAPE,8.35%
+Gradient Boosting MAPE,9.40%
+Ensemble Model MAPE,7.21%
